@@ -1,18 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Well%20Come&fontSize=90)
 
-###  My Name is  
+###  My Name is  김규민
   ---------------------
 ###  My favorite language is Python! 
   ---------------------
-> 
+> 배우고 있는것
   ---------------------
-> aa
+> Pyhton! 초반!
 
-> aa
+> java! 기초!
 
-> aa
+> AWS! 기초!
 
-> aa
+> HTML! 시작!
 ###  My GitHub stat! 
   ---------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kornat79&show_icons=true&theme=swift)
