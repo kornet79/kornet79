@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Well%20Come&fontSize=90)
+![Anurag의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 
 ###  My Name is  김규민
   ---------------------
