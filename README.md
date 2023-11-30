@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+![header](https://capsule-render.vercel.app/api?height=400)
  <br>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![Solved.ac
