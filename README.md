@@ -1,5 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello_512%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=512%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
  <br>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![Solved.ac
