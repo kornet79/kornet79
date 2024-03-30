@@ -18,9 +18,9 @@ name: kornet79
         { "name": "ITQ", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
         { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "94.6" }
     ],
-    "MostLanguage": ["JAVA", "Go", "Python", "Django"],
-    "MyBlog": "https://blog.naver.com/jinseung0327",
-    "Discord": "https://discord.com/users/648462033775362061"
+    "MostLanguage": ["JAVA", "Python", "C++"],
+    "MyBlog": "Null",
+    "Discord": "Null"
 }
 ```
 
