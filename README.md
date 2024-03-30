@@ -9,12 +9,12 @@
     "Birthday": "2007.10.27",
     "School": "sungil infomaincn High School",
     "Tech": ["Cloud", "Backend"],
-    "Skills": ["AWS", "Docker", "K8s", "Terraform", "NestJS", "Go", "Python", "Django"],
+    "Skills": ["AWS", "Docker", "NestJS", "JAVA", "Python", "Node.js", "React"],
     "Awards": [ "test"
     ],
     "Certificate": [
-        { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
-        { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "98.6" }
+        { "name": "ITQ", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
+        { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "94.6" }
     ],
     "MostLanguage": ["JAVA", "Go", "Python", "Django"],
     "MyBlog": "https://blog.naver.com/jinseung0327",
