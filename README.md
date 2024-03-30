@@ -2,7 +2,7 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kornet79&label=Profile%20views&color=0e75b6&style=flat" alt="wlstmd" /> </p>
-name: kornet79
+
     
 
 ```json
