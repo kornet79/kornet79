@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="[https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51](https://cdn.discordapp.com/attachments/1181568622150299761/1216693240384851978/image.png?ex=6613c5e1&is=660150e1&hm=2de02346070a25823849b41c131b1176af245fc18084969473ce3de5eed0bb05&)" />
 </div>
  <br>
 
