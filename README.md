@@ -31,7 +31,7 @@ name: kornet79
 <br />
 
 <details>
-  <summary>Github-Profile-Trophy (click me) </summary>
+
   
   
 </details>
