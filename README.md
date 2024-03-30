@@ -32,7 +32,8 @@ name: kornet79
 
 <details>
     <summary>Github-Profile-Trophy (click me) </summary>
-![](https://github-profile-trophy.vercel.app/?username=wlstmd&row=1&column=8&theme=nord)  
+    
+![](https://github-profile-trophy.vercel.app/?username=kornet79&row=1&column=8&theme=nord)  
   
 </details>
 
