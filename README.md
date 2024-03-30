@@ -38,7 +38,7 @@
 <details>
     <summary>Github-README-Stats (click me) </summary>
     <div style="display: flex; align-items: center; margin-top: 30px;">
-        <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=wlstmd&show_icons=true&theme=tokyonight" />
+        <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=kornet79&show_icons=true&theme=tokyonight" />
         <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kornet79&layout=compact&theme=tokyonight" />
     </div>
 </details>
