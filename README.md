@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello_512%20&height=300&fontSize=100&textBg=true)
  <br>
 
  language. <br><br>
@@ -11,6 +10,7 @@
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![]([https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white))
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <br><br>
 engine <br><br>
@@ -27,3 +27,4 @@ My fist WEB : https://indelibleinexperiencedclients--kky7530874.repl.co/
 My <br> <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={kornet79})](https://solved.ac/{handle}) <br> <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kornet79&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornet79&layout=compact)
