@@ -9,7 +9,7 @@
 {
     "Name": "Gyumin kim",
     "Birthday": "2007.10.27",
-    "School": "sungil infomaincn High School",
+    "School": "sungil information High School",
     "Tech": ["Cloud", "Backend"],
     "Skills": ["AWS", "Docker", "NestJS", "JAVA", "Python", "Node.js", "React"],
     "Awards": [ "test"
