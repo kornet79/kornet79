@@ -1,3 +1,4 @@
+imgae<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=337edd&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80DevOps_Developer+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 <h1 display="flex" align="center">👋  My name is Guymin and I'm hoping for the DevOps.</h1>
 
