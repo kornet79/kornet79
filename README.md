@@ -1,4 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=337edd&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80DevOps_Developer+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 <h1 display="flex" align="center">👋  My name is Guymin and I'm hoping for the DevOps.</h1>
+
+
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kornet79&label=Profile%20views&color=0e75b6&style=flat" alt="wlstmd" /> </p>
@@ -24,9 +27,7 @@
 }
 ```
 
-<div style="display: flex;">
-    <img src="contributions.svg"/>
-</div>
+
 
 <br />
 
