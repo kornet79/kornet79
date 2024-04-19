@@ -1,6 +1,6 @@
-
+![image](https://github.com/dbsrjs/dbsrjs/assets/124150775/41c9f88b-8b8f-4efd-9626-e038b753b984)<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=337edd&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80DevOps_Developer+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-<h1 display="flex" align="center">👋  My name is Guymin and I'm hoping for the DevOps.</h1>
+<h1 display="flex" align="center">👋  My name is Guymin and I'm hoping for the DevOps.</h1></div>
 
 
 
@@ -15,14 +15,14 @@
     "Birthday": "2007.10.27",
     "School": "sungil information High School",
     "Tech": ["Cloud", "Backend"],
-    "Skills": ["AWS", "Docker", "NestJS", "JAVA", "Python", "Node.js", "React"],
+    "Skills": ["AWS", "Docker", "Naver Cloud", "JAVA", "Python", "Node.js", "React"],
     "Awards": [ "test"
     ],
     "Certificate": [
-        { "name": "ITQ", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
-        { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "94.6" }
+        { "name": "ITQ", "IssuedAt": "2023년 9월 25일", "Number": "21205" },
+        { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "???" }
     ],
-    "MostLanguage": ["JAVA", "Python", "C++"],
+    "MostLanguage": ["JAVA", "Python"],
     "MyBlog": "Null",
     "Discord": "Null"
 }
