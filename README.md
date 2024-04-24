@@ -44,7 +44,7 @@
 | 성일정보고등학교 IT 네트워크 동아리 | 2023. 03 ~ 현재 | Sungil Information Hight School programmers |
 | 성일정보고등학교 소프트웨어 웹 개발 스터디 | 2024. 03 ~ 현재 | Sungil Software Study (SSS) |
 | 성일정보고등학교 방과후 자바 기초 | 2023. 05. 11 ~ 07. 19 | Java basic After School Class |
-| 2023 삼성 주니어 SW 아카데미 온라인 IT 멘토링 | 2023. 05. 13 ~ 2023. 07. 15  | Smasung & JA korea |
+| 2023 삼성 주니어 SW 아카데미 온라인 IT 멘토링 | 2023. 05. 13 ~  07. 15  | Smasung & JA korea |
 | 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | Java middle After School Class |
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | Web After School Class |
 | 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
