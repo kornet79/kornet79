@@ -49,7 +49,7 @@
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | Web After School Class |
 | 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
 | 2023 싱가폴 ITE CW국제교류 | 2023. 09. 19 ~ 09. 21 | Sungil Information High School |
-| 자율주행 AI 수업 | 2023. 10? | After School Class |
+| 자율주행 AI 수업 | 2023. 10. 7 | After School Class |
 | 2024 클라우드 기능경기대회 준비 | 2023. 10. 19 ~ 현재 | After School Class |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
 | 성일정보고등학교 방과후 자바 Lv.3 | 2024. 04 ~ 현재 | Sungil Information High School |
