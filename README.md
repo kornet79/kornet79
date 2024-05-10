@@ -15,7 +15,7 @@
     "Birthday": "2007.10.27",
     "School": "sungil information High School",
     "Tech": ["Cloud", "Backend"],
-    "Skills": ["AWS", "Docker", "Naver Cloud", "JAVA", "Python", "Node.js"],
+    "Skills": ["AWS", "Docker", "Naver Cloud", "JAVA", "Python", "Node.js", "Spring"],
     "Awards": [ "test"
     ],
     "Certificate": [
