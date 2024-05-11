@@ -22,7 +22,7 @@
         { "name": "ITQ", "IssuedAt": "2023년 9월 25일", "Number": "21205" },
         { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "???" }
     ],
-    "MostLanguage": ["JAVA", "Python"],
+    "MostLanguage": ["JAVA", "Python", "node.js"],
     "MyBlog": "Null",
     "Discord": "Null"
 }
